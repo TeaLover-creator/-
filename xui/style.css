@@ -1,0 +1,34 @@
+.box{
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid rgb(58, 31, 58);
+}
+
+.block{
+    display: block;
+    width: 200px;
+}
+
+.inline{
+    display: inline;
+    width: 200px;
+}
+
+.inline-block{
+    display: inline-block;
+    width: 200px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+    background-color:aquamarine;
+}
+
+.item{
+    background-color:brown;
+    padding: 20px;
+}
